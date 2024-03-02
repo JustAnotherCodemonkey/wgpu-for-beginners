@@ -3,4 +3,4 @@ authors = ["Sophia Waggoner"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Wgpu for Beginners"
+title = "WGPU for Beginners"
